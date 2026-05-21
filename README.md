@@ -71,4 +71,5 @@ Wallaby Firmware Repository
 Parisa Hariri — iOS App/UI Lead
 Wallaby Clarity, USD Class of 2026
 LinkedIn:  https://www.linkedin.com/in/parisahariri  
+email: haririparisa@gmail.com
 If you continue this project and have questions about the UI structure, BLE setup, SwiftUI navigation, or design process, feel free to reach out.
