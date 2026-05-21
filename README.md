@@ -1,5 +1,6 @@
 # Wallaby Clarity - IOS/UI and BLE
-Capstone Project | University of San Diego | Class of 2026 Sponsor: Tom Lupfer, Clarity Design
+### Capstone Project | University of San Diego | Class of 2026 Sponsor: Tom Lupfer, Clarity Design
+
 A Note to the Next Team
 This app already has a strong UI foundation, BLE connection establishment with the hardware, and simulated data demonstrating the intended patient experience. The biggest opportunity moving forward is transforming the app from a functional prototype into a truly patient-centered healthcare application.
 My biggest recommendation is to work directly with healthcare providers throughout the design process. If I were continuing this project, I would push even further into designing around patient psychology, recovery behavior, compliance motivation, and accessibility. Talk with providers one-on-one for UI design and use their suggestions. 
